@@ -1,0 +1,40 @@
+       
+       .list {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: large;
+            color: blue;
+            
+
+
+        }
+
+        .form {
+            color: red;
+        }
+
+        #completion-status-yes {
+            color: #006400
+        }
+
+        #completion-status-no {
+            color: darkred
+        }
+        #highlight{
+            font-size:xx-large;
+        }
+       body, html{
+       height: 100%;
+    
+        margin: 0;
+        
+       }
+   .bg{
+            background: url(https://media1.tenor.com/m/2FGtDRkd6B0AAAAd/cat-explosion.gif) ;
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: cover;
+        height: 100%;
+      
+   }
+        
+            
