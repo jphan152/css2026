@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+padding: 30px;
+font-family: fantasy;
+}
+.Heading{
+    text-align: center;
+    border: 5px solid;
+}
+.subheading{
+    display: inline-block;
+    padding: 9px;
+    border: 4px dotted;
+    border-radius: 20px;
+}
+.profile-img{
+    display: block;
+    width: 400px;
+    margin: auto;
+    border: 5px solid gray;
+    border-radius: 100px;
+    
+}
